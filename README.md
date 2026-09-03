@@ -8,7 +8,7 @@ su posición original y retoma su movimiento libre. Existe como proyecto de port
 para mostrar una animación interactiva dirigida por `CADisplayLink`, con la física
 separada en un tipo puro y verificable.
 
-<img width="2240" height="1260" alt="MagneticParticles" src="https://github.com/user-attachments/assets/494a67a7-5f32-4a09-8b32-247046c1c7d5" />
+<img width="1381" height="673" alt="MagneticParticles" src="https://github.com/user-attachments/assets/db391cfc-9064-4e26-8e47-961a2624ac4d" />
 
 ---
 
