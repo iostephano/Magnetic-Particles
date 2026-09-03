@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Magnetic Particles
+//  MagneticParticles
 //
 //  Created by Stephano Portella on 04/06/25.
 //
